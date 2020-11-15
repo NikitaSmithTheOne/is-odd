@@ -11,7 +11,7 @@ npm install --save @lab-code/is-odd
 Works with strings and numbers.
 
 ```
-const isOdd = require('is-odd');
+const isOdd = require('@lab-code/is-odd');
 
 console.log(isOdd('1')); // true
 console.log(isOdd('3')); // true

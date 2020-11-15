@@ -1,6 +1,6 @@
 {
 	"name": "@lab-code/is-odd",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
 	"main": "src/index.js",
 	"scripts": {

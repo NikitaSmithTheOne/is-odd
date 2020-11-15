@@ -1,7 +1,7 @@
 {
-	"name": "node-package-boilerplate",
+	"name": "is-odd",
 	"version": "1.0.0",
-	"description": "description",
+	"description": "Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
 	"main": "src/index.js",
 	"scripts": {
 		"lint": "eslint src __test__ --ext .js,.jsx",
@@ -12,9 +12,9 @@
 	"author": "Nikita Galkin",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/NikitaSmithTheOne/node-package-boilerplate/issues"
+		"url": "https://github.com/NikitaSmithTheOne/is-odd/issues"
 	},
-	"homepage": "https://github.com/NikitaSmithTheOne/node-package-boilerplate#readme",
+	"homepage": "https://github.com/NikitaSmithTheOne/is-odd#readme",
 	"devDependencies": {
 		"@types/jest": "^26.0.15",
 		"eslint": "^7.2.0",
@@ -43,5 +43,17 @@
 			"pretty-quick — staged",
 			"git add"
 		]
-	}
+	},
+	"keywords": [
+		"array",
+		"count",
+		"even",
+		"filter",
+		"integer",
+		"is",
+		"math",
+		"numeric",
+		"odd",
+		"string"
+	]
 }

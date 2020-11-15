@@ -1,0 +1,19 @@
+sudo: false
+os:
+  - linux
+  - osx
+  - windows
+language: node_js
+node_js:
+  - node
+  - '15'
+  - '14'
+  - '13'
+  - '12'
+  - '11'
+  - '10'
+
+script:
+  - npm run test
+  - npm run lint
+
